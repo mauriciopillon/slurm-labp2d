@@ -7,6 +7,7 @@ Documentação para utilização do **Cluster HPC Babitonga** do **LABP2D — UD
 ## Índice
 
 * [Sobre este documento](#sobre-este-documento)
+* [Descrição das Filas/QOS](#Filas e QOS dos clusters BAIA e CMU.pdf)
 * [O que é SLURM](#o-que-é-slurm)
 * [Como o SLURM funciona](#como-o-slurm-funciona)
 * [Arquitetura do cluster](#arquitetura-do-cluster)
